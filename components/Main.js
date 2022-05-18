@@ -22,5 +22,4 @@ const VideoContainer = tw.div`
 `;
 
 const Video = tw.video`
-
 `;
